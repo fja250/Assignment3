@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Assignment3 {
 	public static void main(String[] args) {
 
-	Scanner input = new Scanner(System.in);;
+	Scanner input = new Scanner(System.in);
 	System.out.print("Enter a point with two coordinates: ");
 
 	Double x1 = input.nextDouble();
